@@ -1,2 +1,2 @@
 # asibukaofficial.github.io
-Build a Jekyll blog in minutes, without touching the command line.
+This is the official Github Repository from ASIBUKA. Repository for sharing.
